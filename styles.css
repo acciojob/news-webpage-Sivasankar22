@@ -22,6 +22,9 @@ body{
 h3{
 	text-align:center;
 }
+p{
+	padding:10px;
+}
 .latest-news-section ul li{
 	text-align:center;
 }
@@ -38,7 +41,6 @@ background:white;
 		padding:4px;
 	margin:10px;
 	width:300px;
-	
 	border-radius:10%;	
 }
 img{
